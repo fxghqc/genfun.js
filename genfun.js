@@ -1,4 +1,14 @@
-(function(window) {
+/*!
+ * genfun.js
+ *
+ * Written by Josh Marchán <sykopomp@sykosomatic.org>
+ *
+ * Dedicated to the public domain using CC0 1.0. Consider this code public
+ * domain for all intents and purposes, and refer to this legalese when in
+ * doubt: https://creativecommons.org/licenses/zero/1.0/legalcode
+ *
+ */
+;(function(window) {
     /*
      * Genfun
      *
