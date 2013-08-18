@@ -1,10 +1,20 @@
-# Quickstart
-
 `genfun.js` is
 [hosted at Github](http://github.com/sykopomp/genfun.js). `genfun.js` is a
 public domain work, dedicated using
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel
 free to do whatever you want with it.
+
+# Quickstart
+
+### Browser support
+
+[![browser support](http://ci.testling.com/sykopomp/genfun.js.png)](http://ci.testling.com/sykopomp/genfun.js)
+
+### Install
+
+`$ npm install genfun.js`
+
+### Example
 
 ```javascript
 
@@ -67,6 +77,3 @@ capabilities in a prototype-friendly way. Inspired by
 objects, so they will be garbage collected normally even if a method has
 been directly defined on them.
 
-### Browser support
-
-[![browser support](http://ci.testling.com/sykopomp/genfun.js.png)](http://ci.testling.com/sykopomp/genfun.js)
