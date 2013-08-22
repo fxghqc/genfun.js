@@ -1,0 +1,17 @@
+{
+  "name": "genfun",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sykopomp/genfun.js",
+  "authors": [
+    "Josh Marchán <sykopomp@sykosomatic.org>"
+  ],
+  "description": "Prototype-friendly multiple method dispatch for JS.",
+  "main": "build/genfun.js",
+  "keywords": [
+    "util",
+    "functional",
+    "oop",
+    "clos"
+  ],
+  "license": "CC0",
+}
