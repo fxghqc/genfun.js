@@ -1,3 +1,5 @@
+# Genfun.js [![Build Status](https://www.travis-ci.org/sykopomp/genfun.js.png)]] ![Dependencies Status](https://www.david-dm.org/sykopomp/genfun.js.png)
+
 `genfun.js` is
 [hosted at Github](http://github.com/sykopomp/genfun.js). `genfun.js` is a
 public domain work, dedicated using
